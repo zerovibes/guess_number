@@ -1,0 +1,6 @@
+/build/*
+.venv/
+.mypy_cache/
+.kilo/
+__pycache__/
+*.py[cod]
